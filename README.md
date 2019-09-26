@@ -15,7 +15,8 @@ A: Starts game
 B: Shows instructions
 c: Ends the game
 
-If at any time the game appears to lock up/freeze, this is due to the aforementioned memory limitations and Python overhead. Please turn your Pokitto off and on again and it should be fine once more. I've tried to reduce this from happening but not sure if it's been completely eliminated.
+The included .zip file is the .bin and readme.txt file.
+The included .pop file is for the Kraken loader on the Pokitto hardware.
 
 Hope you enjoy the game!
 
